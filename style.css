@@ -1,0 +1,185 @@
+.nav a {
+    color: black;
+    padding: 15px;
+    font-size: 20px;
+    text-decoration: none;
+    font-family: 'Luxurious Roman', cursive;
+  }
+  
+  nav a.active {
+    color: #6B6895;
+  }
+
+  ul.nav a:hover {
+    color: #6B6895 !important;
+  }
+
+  #grad1 {
+    height: 50px;
+    background-color: #D3B5E5;
+    background-image: linear-gradient(#D3B5E5, white);
+  }
+
+  nav .brand {
+    position: absolute;
+    font-size: 24px;
+    font-weight: 500;
+    color: black;
+    font-family: 'Luxurious Roman', cursive;
+  }
+
+  .center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+}
+
+.center1 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 35%;
+}
+
+.center2 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+}
+
+.col-sm-12 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.circle1 {
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    width: 510px;
+    height: 500px;
+    border-radius: 510px;
+    font-family: 'Luxurious Roman';
+    font-size: 20px;
+    color: black;
+    line-height: 30px;
+    background: #F3EDFB;
+}
+
+.circle2 {
+    display: inline-flex;   
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    width: 510px;
+    height: 500px;
+    border-radius: 510px;
+    font-family: 'Luxurious Roman';
+    font-size: 20px;
+    color: black;
+    line-height: 30px;
+    background: #F6EDF8;
+}
+
+.circle3 {
+    display: inline-flex;   
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    width: 510px;
+    height: 500px;
+    border-radius: 510px;
+    font-family: 'Luxurious Roman';
+    font-size: 20px;
+    color: black;
+    line-height: 30px;
+    background: #F4EBF9;
+}
+
+.circle4 {
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    width: 510px;
+    height: 500px;
+    border-radius: 510px;
+    font-family: 'Luxurious Roman';
+    font-size: 20px;
+    color: black;
+    line-height: 30px;
+    background: #EFEDFB;
+}
+
+.card1 {
+    position: relative;
+    background-color: #F9F4FD;
+    font-family: 'Luxurious Roman';
+}
+
+.card2 {
+    position: relative; 
+    right: -50%;
+    background-color: #F9F4FD;
+    font-family: 'Luxurious Roman';
+}
+
+p {
+    padding: 5px;
+}
+
+h2, h3, h4, h5 {
+    padding: 5px;
+}
+
+  ul {
+    text-align: center;
+  }
+  ul li {
+    list-style-position: inside;
+ }
+
+  ol {
+    text-align: center;
+  }
+  ol li {
+    list-style-position: inside;
+ }
+
+  /* Footer */
+  .footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #D3B5E5;
+    height: 50px;
+  }
+
+  #grad2 {
+    height: 50px;
+    background-color: #D3B5E5;
+    background-image: linear-gradient(#D3B5E5, white);
+  }
+  
+  .footer a {
+    padding: 5px 20px;
+    font-family: 'Luxurious Roman';
+    text-decoration: none;
+  }
+  
+  .icons {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    width: 90%;
+  }
+
+  .icons img {
+    margin: 15px;
+    cursor: pointer;
+  }
